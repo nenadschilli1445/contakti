@@ -1,0 +1,8 @@
+.env*
+.git
+log/*
+tmp/*
+*.sql
+spec
+*.rdb
+.bundle
